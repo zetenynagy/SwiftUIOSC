@@ -1,6 +1,6 @@
 import Foundation
 import OSCTools2
-import OSCKit
+import SwiftOSC
 
 public struct OSCManager {
     

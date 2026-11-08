@@ -1,5 +1,5 @@
 import CoreGraphics
-import OSCKit
+import SwiftOSC
 
 public protocol OSCArray {
     var values: [AnyOSCValue] { get }
